@@ -1,0 +1,17 @@
+.ul{
+  display: flex;
+  background-color: rgb(72, 72, 72);
+  margin: 0px;
+  padding: 20px;
+  justify-content: space-around;
+}
+.li{
+  list-style: none;
+}
+.link{
+  color: wheat;
+  font-size: 26px;
+  background-color: #980303;
+  padding: 6px;
+  text-decoration: none;
+}
